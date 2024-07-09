@@ -1,24 +1,12 @@
 <!--
-author:   Your Name
+author:   Olivier Vroege
 
-email:    your@mail.org
+email:    olivier.vroege@santismail.ch
 
 version:  0.0.1
 
-language: en
+language: de
 
-narrator: US English Female
-
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
-
-link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
-
-script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
-translation: Deutsch  translations/German.md
-
-translation: Français translations/French.md
 -->
 
 # Course Main Title
