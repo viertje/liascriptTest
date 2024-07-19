@@ -317,7 +317,8 @@ Einführung
 
 LiaScript ist eine innovative Plattform zur Erstellung von interaktiven Online-Kursen, die sich durch zahlreiche nützliche Funktionen auszeichnet. Hier sind einige Gründe, warum LiaScript besonders nützlich ist:
 
-**Einfache und Intuitive Syntax**
+Einfache und Intuitive Syntax
+================
 
 LiaScript basiert auf Markdown, einer leicht verständlichen und weit verbreiteten Auszeichnungssprache. Dies ermöglicht es Kursautoren, Inhalte schnell und effizient zu erstellen, ohne sich tief in komplexe Programmierung einarbeiten zu müssen. Die Erweiterung um spezielle LiaScript-Syntax bietet zusätzliche Funktionalitäten, die über das einfache Textformat hinausgehen.
 
@@ -344,10 +345,19 @@ Besonders für Kurse im Bereich der Informatik und Programmierung bietet LiaScri
 ----------------------
 
 
-**Fazit**
+Fazit
+================
 
 LiaScript revolutioniert die Art und Weise, wie Online-Kurse erstellt und erlebt werden. Durch seine einfache Handhabung, umfangreiche Interaktivitätsmöglichkeiten, Echtzeit-Kollaboration, Anpassungsfähigkeit und den Open-Source-Ansatz bietet LiaScript eine leistungsstarke und flexible Lösung für die moderne Bildung. Es ist ein unverzichtbares Werkzeug für alle, die qualitativ hochwertige, interaktive und ansprechende Lerninhalte erstellen möchten.
 
+Deploying
+================
+
+1. GitHub
+2. LiaDevServer
+3. OpenOLAT
+4. VSCode Preview
+5. Live Editor
 
 ## Markdown
 
